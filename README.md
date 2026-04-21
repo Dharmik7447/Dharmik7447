@@ -4,8 +4,10 @@ I am a second-semester Artificial Intelligence and Machine Learning (AIML) stude
 
 ### 🚀 What I'm Up To
 * 🎓 **Academics:** Currently in my 1st year of my BTech in AIML.
-* 🌐 **Recent Projects:** Built a responsive Weather app which shows real time weather with the help of API, utilizing HTML, CSS and JS.
-* 🌱 **Currently Learning:** Expanding my skillset by diving into Python.
+* 🌐 **Recent Projects:**
+*   Built a responsive Weather app which shows real time weather with the help of API, utilizing HTML, CSS and JS.
+*   Built a Expense Tracker website to Track monthly income and expenses, utilizing HTML, CSS and JS.
+* 🌱 **Currently Learning:** Expanding my skillset by diving into Python's Library.
 
 ### 🛠️ Tech Stack & Skills
 * **Languages:** C, C++, HTML5, CSS3, JS
@@ -15,6 +17,7 @@ I am a second-semester Artificial Intelligence and Machine Learning (AIML) stude
 * IBM Generative AI Essentials Certification
 * Google Cloud Foundations Certified
 * GitHub Student Developer Pack Member
+* Lauched Global AI Certification
 
 ### 📫 Let's Connect
 * **Email:** dharmikchampaneria@gmail.com

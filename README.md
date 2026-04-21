@@ -1,18 +1,23 @@
-### Hi there, I’m @Dharmik7447 👋
+# Hi there, I'm Dharmik 👋
 
-I am a first-year **AIML Student at PIET** with a strong foundation in C/C++, now expanding my skillset into Front-End Web Development.
+I am a second-semester Artificial Intelligence and Machine Learning (AIML) student at PIET, passionate about blending logical programming with creative web design. 
 
-- 🛠 **Core Stack:** C, C++ (Competitive & Logical Programming)
-- 🎨 **Currently Learning:** HTML5, CSS3, Responsive Web Design
-- 🔭 **Working on:** Building responsive websites (like Tourism & Hotel Reviews)
-- 💞️ **Looking to collaborate on:** C++ Logic Puzzles or Web Design Projects
-- 📫 **Reach me:** dharmikchampaneria@gmail.com
-- 😄 **Pronouns:** He/Him
+### 🚀 What I'm Up To
+* 🎓 **Academics:** Currently in my 1st year of my BTech in AIML.
+* 🌐 **Recent Projects:** Built a responsive Weather app which shows real time weather with the help of API, utilizing HTML, CSS and JS.
+* 🌱 **Currently Learning:** Expanding my skillset by diving into Python.
 
----
-⚡ **Fun fact:**
-I started with **C++** (so I know how to increment logic!), but now I'm using **CSS** to make that logic look good on screen.
-<!---
-Dharmik7447/Dharmik7447 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack & Skills
+* **Languages:** C, C++, HTML5, CSS3, JS
+* **Exploring:** Python, Generative AI, Cloud Technologies
+
+### 🏆 Certifications & Achievements
+* IBM Generative AI Essentials Certification
+* Google Cloud Foundations Certified
+* GitHub Student Developer Pack Member
+
+### 📫 Let's Connect
+* **Email:** dharmikchampaneria@gmail.com
+* **Looking to collaborate on:** C++ logic puzzles, front-end web design projects, or beginner AI/ML concepts.
+
+⚡ **Fun fact:** I started with C++ to master logic, and now I'm using HTML/CSS to make sure that logic looks great on screen!
